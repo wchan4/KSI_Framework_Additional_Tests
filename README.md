@@ -5,6 +5,7 @@
 1. Clone the following GitHub repo (original paper's source code): https://github.com/tiantiantu/KSI
 
 2. Move the files "KSI_LR.py" and "KSI_LSTM_Bidirectional.py" into main folder of KSI repo (if you want to test these models as well)
+- "KSI_LR.py" and "KSI_LSTM_Bidirectional.py" should be in the same folder as other pipeline files (ie. KSI_CNN.py)
 
 3. Set up Conda environment for python 3.7.0 and install the following packages using conda commands (use commands in this order)
 - torch=0.4.1 (conda install pytorch=0.4.1 cuda90 -c pytorch)
