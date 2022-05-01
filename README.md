@@ -1,5 +1,7 @@
 # KSI_Framework_Additional_Tests
 
+## NOTE: A lot of the pipeline used in the Logistic Regression and Bi-Directional LSTM experiments are taken from the original author's code. The main difference is in the model design itself.
+
 ## How to Replicate Experimentation:
 
 1. Clone the following GitHub repo (original paper's source code): https://github.com/tiantiantu/KSI
