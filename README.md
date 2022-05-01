@@ -11,6 +11,7 @@
 - torch=0.4.1 (conda install pytorch=0.4.1 cuda90 -c pytorch)
 - sklearn=0.19.2 (conda install -c intel scikit-learn=0.19.2)
 - numpy=1.16.1 (conda install -c conda-forge numpy=1.16.1)
+  - Downgrades NumPy (IMPORTANT)
 
 4. Follow the instructions listed in the original GitHub repo (Recapped below)
 - Run preprocessing1.py, preprocessing2.py, and preprocessing3.py (in that order)
