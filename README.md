@@ -16,4 +16,4 @@
 - Run the python file for any desired model tests
 
 
-Note: Pretrained models are included in TrainedModels folder for all 5 main base models and the 1 additional model
+Note: Pretrained models are included in TrainedModels folder for all 5 main base models and the 1 additional model using "torch.save".
