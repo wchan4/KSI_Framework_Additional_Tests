@@ -17,7 +17,7 @@
 
 4. Follow the instructions listed in the original GitHub repo (Recapped below)
 - Run preprocessing1.py, preprocessing2.py, and preprocessing3.py (in that order)
-- Run the python file for any desired model tests
+- Run the python file for any desired model tests (ie. for the CNN experiment, run KSI_CNN.py)
 
 
 Note: Pretrained models are included in TrainedModels folder for all 5 main base models and the 1 additional model. Models were saved using "torch.save" and can be loaded using "torch.load".
