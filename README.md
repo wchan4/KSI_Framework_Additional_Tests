@@ -23,7 +23,7 @@
 
 Note: Pretrained models are included in TrainedModels folder for all 5 main base models and the 1 additional model. Models were saved using "torch.save" and can be loaded using "torch.load".
 
-## Results:
+## Experiment Reproduction Results:
 ![alt text](https://github.com/wchan4/KSI_Framework_Additional_Tests/blob/main/model_performance.PNG?raw=true)
 
 
