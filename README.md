@@ -22,7 +22,10 @@
 
 Note: Pretrained models are included in TrainedModels folder for all 5 main base models and the 1 additional model. Models were saved using "torch.save" and can be loaded using "torch.load".
 
+## Results:
+![alt text](https://github.com/wchan4/KSI_Framework_Additional_Tests/blob/main/model_performance.PNG?raw=true)
 
-Citations:
-- Original Paper: Bai, T., Vucetic, S., Improving Medical Code Prediction from Clinical Text via Incorporating Online Knowledge Sources, The Web Conference (WWW'19), 2019.
-- Original Paper Code: https://github.com/tiantiantu/KSI
+
+## Citations:
+Original Paper: Bai, T., Vucetic, S., Improving Medical Code Prediction from Clinical Text via Incorporating Online Knowledge Sources, The Web Conference (WWW'19), 2019.
+Original Paper Code: https://github.com/tiantiantu/KSI
