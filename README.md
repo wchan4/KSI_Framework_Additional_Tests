@@ -16,8 +16,9 @@
   - Downgrades NumPy (IMPORTANT)
 
 4. Follow the instructions listed in the original GitHub repo (Recapped below)
+- Obtain the MIMIC-III data files "NOTEEVENTS.csv" and "DIAGNOSES_ICD.csv" and put into the main folder (same folder as the preprocessing python files)
 - Run preprocessing1.py, preprocessing2.py, and preprocessing3.py (in that order)
-- Run the python file for any desired model tests (ie. for the CNN experiment, run KSI_CNN.py)
+- Run the python file for any desired model tests (ie. for the CNN experiment, run KSI_CNN.py, this runs both training and evaluation)
 
 
 Note: Pretrained models are included in TrainedModels folder for all 5 main base models and the 1 additional model. Models were saved using "torch.save" and can be loaded using "torch.load".
