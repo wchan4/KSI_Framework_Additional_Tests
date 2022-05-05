@@ -28,4 +28,5 @@ Note: Pretrained models are included in TrainedModels folder for all 5 main base
 
 ## Citations:
 Original Paper: Bai, T., Vucetic, S., Improving Medical Code Prediction from Clinical Text via Incorporating Online Knowledge Sources, The Web Conference (WWW'19), 2019.
+
 Original Paper Code: https://github.com/tiantiantu/KSI
